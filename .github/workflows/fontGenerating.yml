@@ -32,7 +32,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install requirements
-        run: pip install fontmake
+        run: |
+          pip install fontmake
 
       # Runs a set of commands using the runners shell
       - name: Generating fonts
