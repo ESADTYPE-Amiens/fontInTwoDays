@@ -13,6 +13,8 @@ this is something *italic*
 * a small todo list
 * dont forget this one
 * make this works
+* lucas
+* hey
 
 the coolest [project ever](https://github.com/ESADTYPE-Amiens/fontInTwoDays)
 
