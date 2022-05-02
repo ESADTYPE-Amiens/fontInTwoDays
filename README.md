@@ -20,8 +20,18 @@ the coolest [project ever](https://github.com/ESADTYPE-Amiens/fontInTwoDays)
 
 a small change
 
-<<<<<<< HEAD
-* This is by Hirbod!
-=======
+
+
 *anagha is trying to type in italics*
->>>>>>> 50806a64f8aaa76b0ed29c3a4cfaa5bd447b1979
+
+
+
+more changes
+
+not a small change
+
+is it a small change?
+
+
+* This is by Hirbod!
+
