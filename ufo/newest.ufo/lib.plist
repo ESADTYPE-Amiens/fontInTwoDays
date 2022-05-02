@@ -15,6 +15,7 @@
 	<array>
 		<string>W</string>
 		<string>X</string>
+		<string>E</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -108,7 +109,9 @@
 	<false/>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>A</string>
+		<string>D</string>
+		<string>E</string>
+		<string>H</string>
 		<string>W</string>
 		<string>X</string>
 		<string>_cjkguide</string>
