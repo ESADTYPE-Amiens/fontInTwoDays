@@ -107,6 +107,8 @@
     </array>
     <key>com.schriftgestaltung.useNiceNames</key>
     <false/>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4815787920</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
