@@ -125,6 +125,8 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4662035984</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
