@@ -11,11 +11,12 @@ destRoot = "socialMedia"
 
 os.mkdir(destRoot)
 
-drawBot.newDrawing()
 
 for fileName in os.listdir(root):
     if not fileName.endswith(".otf"):
         continue
+
+    drawBot.newDrawing()
 
     fontPath = os.path.join(root, fileName)
 
@@ -45,4 +46,4 @@ for fileName in os.listdir(root):
                 drawBot.text(letter, (0, 0))
 
     drawBot.saveImage(os.path.join(destRoot, f"{fontName}.gif"))
-drawBot.endDrawing()
+    drawBot.endDrawing()
