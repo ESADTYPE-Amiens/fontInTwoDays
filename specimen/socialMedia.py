@@ -45,5 +45,5 @@ for fileName in os.listdir(root):
                 drawBot.rotate(-90)
                 drawBot.text(letter, (0, 0))
 
-    drawBot.saveImage(os.path.join(destRoot, f"{fontName}.gif"))
+    drawBot.saveImage(os.path.join(destRoot, f"{fileName}.gif"))
     drawBot.endDrawing()
