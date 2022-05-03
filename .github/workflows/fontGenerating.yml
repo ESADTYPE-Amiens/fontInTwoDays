@@ -46,6 +46,7 @@ jobs:
       - name: DrawBot stuff
         run: |
           python specimen/specimenMaker.py
+          python specimen/socialMedia.py
 
       - name: Upload generated fonts
         uses: actions/upload-artifact@v2
@@ -62,4 +63,12 @@ jobs:
           name: Specimen
           # A file, directory or wildcard pattern that describes what to upload
           path: specimen.pdf
+
+      - name: Upload Social Media gifs
+        uses: actions/upload-artifact@v2
+        with:
+          # Artifact name
+          name: Social Media
+          # A file, directory or wildcard pattern that describes what to upload
+          path: socialMedia
 
