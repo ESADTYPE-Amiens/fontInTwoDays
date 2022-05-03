@@ -43,5 +43,5 @@ for i, letter in enumerate(letters):
             drawBot.rotate(-90)
             drawBot.text(letter, (0, 0))
  
-drawBot.saveImage("socialMedia.gif")
+drawBot.saveImage("specimen/socialMedia.gif")
 drawBot.endDrawing()
